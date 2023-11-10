@@ -17,3 +17,4 @@ PASS=yourapppasswordhere
 SENDER=youremail@example.com
 RECEIVER=targetemail@example.com
 BODY=Your email content here
+```
